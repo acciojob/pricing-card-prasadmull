@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.card{
+	text-align:center;
+	width:50%;
+	background-color:#F1F1F1;
+	margin:auto;
+	padding:40px;
+}
+.card img{
+	width:100%;
+}
+.btn{
+	background-color:#FE625A;
+	border:none;
+	padding:10px 15px;
+	color:white;
+	border-radius:10px;
+}
